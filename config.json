@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "testing-fastapi-apis",
+      "title": "Testando APIs com FastAPI",
+      "description": "Escreva testes automatizados para endpoints FastAPI com pytest e TestClient, verificando respostas, dados e erros HTTP.",
+      "path": "assignments/testing-fastapi-apis",
+      "dueDate": "2026-11-04",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
